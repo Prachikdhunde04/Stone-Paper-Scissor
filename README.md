@@ -25,7 +25,6 @@ A fun and interactive **Rock Paper Scissors** game built with **HTML, CSS**, and
 ## 📸 Screenshots
 
 ![Game Screenshot](StonePaperScissor.png)  
-*Add your actual game screenshot named `screenshot.png` in your repo root*
 
 ---
 
@@ -47,5 +46,5 @@ Contributions are welcome! If you'd like to enhance the UI, add sound effects, o
 
 ## ✍️ Author
 
-Made with ❤️ by [Your Name](https://www.linkedin.com/in/prachi-dhunde-408b2825a)
+Made with ❤️ by [Prachi Dhunde](https://www.linkedin.com/in/prachi-dhunde-408b2825a)
 
